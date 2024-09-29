@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bxoer.github.io/tBV/sitemap.tBV.gz
